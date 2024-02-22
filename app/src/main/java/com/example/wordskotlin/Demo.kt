@@ -4,6 +4,6 @@ class Demo {
     // test
     // test 2
     fun demo() {
-        println("")
+        println("Hello world!")
     }
 }
