@@ -8,4 +8,7 @@ class Demo {
     }
 
     //kasım ceylan
+    // Deneme yazısı
+    // yeni deneme yazısı
+    //bir şeyler ekledim
 }
