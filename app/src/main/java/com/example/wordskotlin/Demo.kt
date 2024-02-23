@@ -13,4 +13,5 @@ class Demo {
     //bir şeyler ekledim
 
     //yeni yazı
+    //Kasım Ceylan yeni yazı ekledi
 }
