@@ -16,4 +16,5 @@ class Demo {
     //Kasım Ceylan yeni yazı ekledi
     // yeni yazı ekleme işlemi bitti
     // ekleme yapıldı
+    // yeni ekleme yapıldı
 }
