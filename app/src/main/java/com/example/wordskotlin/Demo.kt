@@ -17,4 +17,6 @@ class Demo {
     // yeni yazı ekleme işlemi bitti
     // ekleme yapıldı
     // yeni ekleme yapıldı
+    // bir yeni ekleme yapıldı
+    //  bir tane daha eklendi
 }
