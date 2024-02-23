@@ -11,4 +11,6 @@ class Demo {
     // Deneme yazısı
     // yeni deneme yazısı
     //bir şeyler ekledim
+
+    //yeni yazı
 }
